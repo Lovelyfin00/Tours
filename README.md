@@ -12,7 +12,7 @@ Goodbye, Mundane!: Feeling uninspired? Click on the "Not Interested" button to b
 
 ## Live Demo - Get a Sneak Peek!
 
-Eager to see Tours in action? Take a virtual stroll through the application and start planning your dream getaway. Check out the [live demo here.]()
+Eager to see Tours in action? Take a virtual stroll through the application and start planning your dream getaway. Check out the [live demo here.](https://lovelyfin00.github.io/Tours/)
 
 ![image](https://github.com/Lovelyfin00/Tours/assets/38161296/e37719b7-1cd7-44b2-b506-9cbc24a6c516)
 
